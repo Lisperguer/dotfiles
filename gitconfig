@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = felipe.lisperguer.h@gmail.com
+	name = Felipe Lisperguer
